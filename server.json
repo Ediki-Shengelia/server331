@@ -1,0 +1,61 @@
+{
+    "data" : [
+        {
+          "id": 1,
+          "imgUrl": "https://cdn.motor1.com/images/mgl/6mK7E/s1/2020-alfa-romeo-giulia-quadrifoglio.jpg",
+          "title": "ALfa Romeo",
+          "price": "600 000$",
+          "Year": "2022",
+          "Location": "Dubai"
+        },
+        {
+          "id": 2,
+          "imgUrl": "https://www.motortrend.com/uploads/2023/05/001-2023-dodge-super-stock-f8-green.jpg",
+          "title": "Dodge",
+          "price": "76 000$",
+          "Year": "2000",
+          "Location": "New York"
+        },
+      
+        {
+          "id": 3,
+          "imgUrl": "https://media.ed.edmunds-media.com/jeep/wrangler/2024/oem/2024_jeep_wrangler_convertible-suv_rubicon-392_fq_oem_1_1600.jpg",
+          "title": "Jeep",
+          "price": "143 000$",
+          "Year": "2001",
+          "Location": "Tbilisi"
+        },
+      
+        {
+          "id": 4,
+          "imgUrl": "https://www.marinoperformancemotors.com/imagetag/14235/49/l/Used-2022-Lamborghini-Urus.jpg",
+          "title": "Lamborgini Urus",
+          "price": "320 000$",
+          "Year": "2023",
+          "Location": "Dubai"
+        },
+        {
+          "id": 5,
+          "imgUrl": "https://www.marinoperformancemotors.com/imagetag/14235/49/l/Used-2022-Lamborghini-Urus.jpg",
+          "title": "Lamborgini Urus",
+          "price": "320 000$",
+          "Year": "2023",
+          "Location": "Dubai"
+        },
+        {
+          "id": 6,
+          "imgUrl": "https://global.toyota/pages/news/images/2020/07/07/1330/20200707_02_07_s.jpg",
+          "title": "Lexus",
+          "price": "90 000$",
+          "Year": "2022",
+          "Location": "New York"
+        },
+        {
+          "id": 7,
+          "imgUrl": "https://vehicle-images.dealerinspire.com/9f3d-11001349/thumbnails/large/ZAMBMVBB6RX435906/5285bf16fbe9fe556258b9f22f2fb28b.jpg",
+          "title": "Maserati",
+          "price": "2 300 000$",
+          "Year": "2023",
+          "Location": "Tbilisi"
+        }]
+}
